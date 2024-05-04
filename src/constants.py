@@ -4,4 +4,4 @@ DATABASE_USER = "postgres"
 DATABASE_PASSWORD = "postgres"
 DATABASE_PORT = 5432
 
-RESOURCE_DIRECTORY = "./resources"
+RESOURCE_DIRECTORY = "./src/resources"
